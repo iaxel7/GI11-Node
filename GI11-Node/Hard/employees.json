@@ -1,0 +1,67 @@
+[
+    {
+      "employeeID": 1,
+      "name": "John Doe",
+      "salary": 50000,
+      "department": "Engineering"
+    },
+    
+    {
+      "employeeID": 2,
+      "name": "Jane Smith",
+      "salary": 60000,
+      "department": "Marketing"
+    },
+
+    {
+        "employeeID": 3,
+        "name": "Jorge Esparza",
+        "salary": 100000,
+        "department": "Software-Development"
+    },
+    
+    {
+        "employeeID": 4,
+        "name": "Bob Builder",
+        "salary": 30000,
+        "department": "Marketing"
+    },
+    {
+        "employeeID": 5,
+        "name": "Dave Jones",
+        "salary": 10000,
+        "department": "Sales"
+    },
+    {
+        "employeeID": 6,
+        "name": "Axel Lopez",
+        "salary": 1000000,
+        "department": "VP of Sales"
+    },
+    {
+        "employeeID": 7,
+        "name": "Kevin Trotter",
+        "salary": 70000,
+        "department": "C.O.O of Sales"
+    },
+    {
+        "employeeID": 8,
+        "name": "Miguel O'hara",
+        "salary": 30000,
+        "department": "Sales"
+    },
+    {
+        "employeeID": 9,
+        "name": "Miles Morales",
+        "salary": 90000,
+        "department": "VP of Marketing"
+    },
+    {
+        "employeeID": 10,
+        "name": "Gwen Stacy",
+        "salary": 70000,
+        "department": "Marketing Manager"
+    }
+
+  ]
+  
